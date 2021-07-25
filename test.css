@@ -1,0 +1,32 @@
+body{
+    display: flex;
+    justify-content: center;
+    padding-top: 10%;
+}
+
+
+.container{
+    border: solid black 1px;
+    align-items: center;
+    width: auto;
+    height: auto;
+    padding: 60px 40px;
+    border-radius: 10px;    
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    line-height: 24px;
+}
+button{
+    line-height: 24px;
+    margin-left: 10px;   
+}
+ul{
+    display: flex;
+    flex-direction: column;
+   
+  
+}
